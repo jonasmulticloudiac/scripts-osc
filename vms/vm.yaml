@@ -1,0 +1,6 @@
+imports:
+- path: template-vm.jinja
+
+resources:
+- name: tcb-vm
+  type: template-vm.jinja
